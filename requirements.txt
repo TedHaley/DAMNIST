@@ -1,0 +1,7 @@
+tensorflow
+pillow
+dash
+dash-table
+pandas
+numpy
+dash-canvas
